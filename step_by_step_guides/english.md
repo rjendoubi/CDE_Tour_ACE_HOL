@@ -144,7 +144,11 @@ Pick your Spark 3 / Iceberg-enabled CDE Virtual Cluster and name your Resource a
 
 ![alt text](../img/cde_res_2.png)
 
-Upload all files from the "cde_ace_hol/cde_spark_jobs" folder. Then, navigate back to the Resources tab, reopen the resource and upload the two Airflow DAGs located in the "cde_ace_hol/cde_airflow_jobs" folders. Finally, reopen the resource and upload the "utils.py" file contained in the "cde_ace_hol/resources_files" folder.
+Upload all of the following (you will need to reopen the Upload dialog box for each set of files):
+
+* all files from the "cde_ace_hol/cde_spark_jobs" folder
+* the two main Airflow DAGs located in the "cde_ace_hol/cde_airflow_jobs" folder (not the "bonus" one)
+* from the "cde_ace_hol/resources_files" folder, "utils.py" and "parameters.conf"
 
 When you are done, ensure that the following files are located in your File Resource:
 
