@@ -16,7 +16,7 @@ Clone this GitHub repository to your local machine or the VM where you will be r
 ```
 mkdir ~/Documents/cde_ace_hol
 cd ~/Documents/cde_ace_hol
-git clone https://github.com/pdefusco/CDE_Tour_ACE_HOL.git
+git clone https://github.com/rjendoubi/CDE_Tour_ACE_HOL.git
 ```
 
 Alternatively, if you don't have `git` installed on your machine, create a folder on your local computer; navigate to [this URL](https://github.com/pdefusco/CDE_Tour_ACE_HOL.git) and manually download the files.
